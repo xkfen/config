@@ -1,0 +1,12 @@
+{
+  "env":"dev",
+  "host":"127.0.0.1",
+  "password":"123456",
+  "user_name":"root",
+  "name":"user",
+  "prefix":"ex_",
+  "port":3306,
+  "type":"mysql",
+  "max_idle_conn":10,
+  "max_open_conn":100
+}
